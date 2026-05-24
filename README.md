@@ -27,3 +27,8 @@ remove-gd-addon Gun2D
 ```bash
 push-all-addons
 ```
+
+## Dependencies
+
+- [GodotBullet](https://github.com/ChillCube/GodotBullet)
+- [RotateToMouse](https://github.com/ChillCube/RotateToMouse)

@@ -1,3 +1,5 @@
 # --- Automated Dependencies (Managed by Script) ---
 
 # --- Manually Add Dependencies Here  ---
+https://github.com/ChillCube/GodotBullet
+https://github.com/ChillCube/RotateToMouse
